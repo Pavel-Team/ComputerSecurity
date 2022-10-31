@@ -1,6 +1,6 @@
 public class Main {
 
-    private static final int OPTION = 1;                        //Номер варианта (сдвиг в шифре Цезаря)
+    private static final int OPTION = -500;                        //Номер варианта (сдвиг в шифре Цезаря)
     private static final String TEXT_FOR_CRYPT = "abc xyz ggg"; //Текст для шифрования
 
 
